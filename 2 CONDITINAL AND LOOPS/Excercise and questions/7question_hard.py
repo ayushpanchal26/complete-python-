@@ -1,0 +1,3 @@
+'''fibonacii with while loop'''
+ 
+       

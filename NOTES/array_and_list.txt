@@ -1,0 +1,11 @@
+ list vs array
+
+ array - store same data (languages - c,c++,java)
+ list - store any data / flexible 
+
+ array module - fix data type (good performance)
+ numpy module we use numpy arrays 
+ numpy module is built in c and it has very high and fast performance because c is fast and has high performance
+ while python don't have high performance but it is the most flexible and used in most of the new tech things
+ lik data science
+ javascript array =~ python list / flexible 
